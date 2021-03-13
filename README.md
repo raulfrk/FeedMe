@@ -1,2 +1,2 @@
 # FeedMe
-Flask application that shows a news feed
+Flutter application that shows a news feed
